@@ -25,5 +25,17 @@ https://cloud.githubusercontent.com/assets/18352388/14390026/c03f3784-fdd2-11e5-
 
 https://cloud.githubusercontent.com/assets/18352388/14390027/c05f2774-fdd2-11e5-89aa-3cefda2e6fe6.png
 
-First I used the cat Command as the previous one. It didn't work. So I use ./ before it.
+First I used the cat Command as the previous one. It didn't work. So I use ./ before it to convince that the - is the acctual file name because it is a bash.
+
+Level 2 - 3
+
+https://cloud.githubusercontent.com/assets/18352388/14390028/c069c4cc-fdd2-11e5-9c3f-c8980b3c949d.png
+
+https://cloud.githubusercontent.com/assets/18352388/14390029/c076723a-fdd2-11e5-8f16-2ca315e8f710.png
+
+Here the file name had spaces. So I had to put a backslash infront of everyspace
+
+Level 3 - 4
+
+
 
