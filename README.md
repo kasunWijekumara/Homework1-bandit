@@ -2,10 +2,8 @@
 
 Level 0 
 
-![1 1](https://cloud.githubusercontent.com/assets/18352388/14391644/e5907c2a-fdda-11e5-9b3a-858e6cb383b1.png)
-https://cloud.githubusercontent.com/assets/18352388/14390022/bf8e4938-fdd2-11e5-85d0-01cf1b6241ef.png
-
-https://cloud.githubusercontent.com/assets/18352388/14390023/bfb7d5aa-fdd2-11e5-8685-ba61f2fb1daa.png
+![0 2](https://cloud.githubusercontent.com/assets/18352388/14390022/bf8e4938-fdd2-11e5-85d0-01cf1b6241ef.png)
+![0 1](https://cloud.githubusercontent.com/assets/18352388/14390023/bfb7d5aa-fdd2-11e5-8685-ba61f2fb1daa.png)
 
 Here we have to use the ssh command with username
 
