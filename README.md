@@ -6,6 +6,8 @@ https://cloud.githubusercontent.com/assets/18352388/14390022/bf8e4938-fdd2-11e5-
 
 https://cloud.githubusercontent.com/assets/18352388/14390023/bfb7d5aa-fdd2-11e5-8685-ba61f2fb1daa.png
 
+https://cloud.githubusercontent.com/assets/18352388/14392982/ffe89222-fde1-11e5-8f99-df5866743ed1.png
+
 Here we have to use the ssh command with username
 
 Level 0 - 1
