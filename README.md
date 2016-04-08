@@ -9,11 +9,9 @@ Here we have to use the ssh command with username
 
 Level 0 - 1
 
-https://cloud.githubusercontent.com/assets/18352388/14391644/e5907c2a-fdda-11e5-9b3a-858e6cb383b1.png
-
-https://cloud.githubusercontent.com/assets/18352388/14390024/bfe4de88-fdd2-11e5-894b-c6e5342facc4.png
-
-https://cloud.githubusercontent.com/assets/18352388/14390025/c013f0d8-fdd2-11e5-9443-1cef39a10c38.png
+![1 1](https://cloud.githubusercontent.com/assets/18352388/14391686/2e809ad2-fddb-11e5-9024-9924bfc2f1b3.png)
+![1 1](https://cloud.githubusercontent.com/assets/18352388/14390024/bfe4de88-fdd2-11e5-894b-c6e5342facc4.png)
+![1 2](https://cloud.githubusercontent.com/assets/18352388/14390025/c013f0d8-fdd2-11e5-9443-1cef39a10c38.png)
 
 Here we can use cat command to read the file.
 
